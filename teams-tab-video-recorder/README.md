@@ -9,13 +9,10 @@ This is an experimental web part. Because this technology's specification has no
 ## Teams Custom Tab
 ![About](./assets/About.PNG)
 
-## Teams Custom Tab
 ![Add Custom Tab](./assets/AddCustomTab.png)
 
-## Teams Custom Tab
 ![API Management - MSGraph](./assets/APIManagement.png)
 
-## Teams Custom Tab
 ![Custom Tab](./assets/Tab.png)
 
 ## Applies to
