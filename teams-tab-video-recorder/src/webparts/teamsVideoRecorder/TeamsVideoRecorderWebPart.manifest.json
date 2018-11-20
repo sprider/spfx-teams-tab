@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "96b70198-86de-41ee-881d-9907ed14b6a1",
+  "alias": "TeamsVideoRecorderWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "Teams Video Recorder" },
+    "description": { "default": "Record screen and audio on your computer and upload in SharePoint library." },
+    "officeFabricIconFontName": "Video",
+    "properties": {
+      
+    }
+  }]
+}

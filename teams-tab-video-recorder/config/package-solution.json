@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "teams-tab-video-recorder",
+    "id": "ed969af7-d286-49a5-a093-16cd7f4b0146",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "webApiPermissionRequests": [
+      {
+        "resource": "Microsoft Graph",
+        "scope": "Files.ReadWrite"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/teams-tab-video-recorder.sppkg"
+  }
+}

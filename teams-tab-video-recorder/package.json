@@ -1,0 +1,48 @@
+{
+  "name": "teams-tab-video-recorder",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "build": "gulp bundle",
+    "clean": "gulp clean",
+    "test": "gulp test"
+  },
+  "dependencies": {
+    "@microsoft/sp-core-library": "1.7.0-plusbeta",
+    "@microsoft/sp-webpart-base": "1.7.0-plusbeta",
+    "@microsoft/sp-lodash-subset": "1.7.0-plusbeta",
+    "@microsoft/sp-office-ui-fabric-core": "1.7.0-plusbeta",
+    "@types/webpack-env": "1.13.1",
+    "@types/es6-promise": "0.0.33",
+    "@angular/animations": "~4.0.0",
+    "@angular/common": "~4.0.0",
+    "@angular/compiler": "~4.0.0",
+    "@angular/core": "~4.0.0",
+    "@angular/forms": "~4.0.0",
+    "@angular/http": "~4.0.0",
+    "@angular/platform-browser": "~4.0.0",
+    "@angular/platform-browser-dynamic": "~4.0.0",
+    "@angular/router": "~4.0.0",
+    "lodash": "^4.17.4",
+    "reflect-metadata": "0.1.10",
+    "rxjs": "~5.0.1",
+    "systemjs": "0.19.40",
+    "typescript-string-operations": "~1.1.0",
+    "typings": "^2.1.1",
+    "zone.js": "~0.8.4"
+  },
+  "devDependencies": {
+    "@microsoft/microsoft-graph-types": "^1.5.0",
+    "@microsoft/sp-build-web": "1.7.0-plusbeta",
+    "@microsoft/sp-module-interfaces": "1.7.0-plusbeta",
+    "@microsoft/sp-tslint-rules": "1.7.0-plusbeta",
+    "@microsoft/sp-webpart-workbench": "1.7.0-plusbeta",
+    "@types/chai": "3.4.34",
+    "@types/mocha": "2.2.38",
+    "ajv": "~5.2.2",
+    "gulp": "~3.9.1"
+  }
+}

@@ -22,7 +22,6 @@ coverage
 # Visual Studio files
 .ntvs_analysis.dat
 .vs
-.vscode
 bin
 obj
 
@@ -31,5 +30,3 @@ obj
 
 # Styles Generated Code
 *.scss.ts
-
-packages/
